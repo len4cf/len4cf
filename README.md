@@ -1,5 +1,5 @@
 hi im helena
-im 17y years old and i started my programming journey at the beginning of 2021 tho it was always my dream.
+im 17 years old and i started my programming journey at the beginning of 2021 tho it was always my dream.
 i used to think that i was too young for this and never really started studying it until i bought a course from udemy.
 in march 2021 i bought a python course (i asked for suggestions all over the places about languages for starters).
 
