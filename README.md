@@ -9,6 +9,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/helena.carvalhoferreira)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/len4cf/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12166701867?si=146d5dcd4b8444e6)
+[![Lastfm](https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/user/len4cf)
 
 ![Len4cf's GitHub stats](https://github-readme-stats.vercel.app/api?username=len4cf&show_icons=true&theme=dracula)
 
