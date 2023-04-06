@@ -1,7 +1,6 @@
 # Hello!
 
 **`Software engineer student`**<br>
-**`My name is Helena, but you can call me Lena!`**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helenacarvalhoferreira/)
 [![MyAnimeList](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/animelist/len4cf)
@@ -12,7 +11,7 @@
 
 ## Personal Info
 
-<h3><b>Name:</b> Helena Carvalho Ferreira </h3>
+<h3><b>Name:</b> Helena Carvalho Ferreira (But you can call me Lena) </h3>
 <h3><b>Age:</b> 18 </h3>
 <h3><b>Living in:</b> Curitiba - PR, Brazil </h3>
 <h3><b>University:</b> PUCPR - Pontifícia Universidade Católica do Paraná </h3>
