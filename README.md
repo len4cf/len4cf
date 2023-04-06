@@ -39,7 +39,7 @@
 
 ## Workspace specs
 <div style="display: inline-block"><br/>
-    <img align="center" alt="python" src=https://img.shields.io/badge/NVIDIA-GTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white>
+    <img align="center" alt="python" src=https://img.shields.io/badge/NVIDIA-RTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white>
     <img align="center" alt="python" src=https://img.shields.io/badge/Intel-Core_i5_10th_2.90ghZ-0071C5?style=for-the-badge&logo=intel&logoColor=white>
     <img align="center" alt="python" src=https://img.shields.io/badge/Windows11-0078D6?style=for-the-badge&logo=windows&logoColor=white>
 
