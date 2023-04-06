@@ -1,5 +1,7 @@
+# Hello!
 
-### Olá, sou a helena!
+**`Software engineer student`**<br>
+**`My name is Helena, but you can call me Lena!`**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helenacarvalhoferreira/)
 [![MyAnimeList](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/animelist/len4cf)
@@ -8,15 +10,21 @@
 
 ![Len4cf's GitHub stats](https://github-readme-stats.vercel.app/api?username=len4cf&show_icons=true&theme=dracula)
 
+## Personal Info
 
+<h3><b>Name:</b> Helena Carvalho Ferreira </h3>
+<h3><b>Age:</b> 18 </h3>
+<h3><b>Living in:</b> Curitiba - PR, Brazil </h3>
+<h3><b>University:</b> PUCPR - Pontifícia Universidade Católica do Paraná </h3>
 
-## Tecnologias que eu uso no meu dia
+<br>
+
+## Languages and Tools
 
 <div style="display: inline-block"><br/>
-    <img align="center" alt="python" src=https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white>
-    <img align="center" alt="html5" src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white>
-    <img align="center" alt="css" src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white>
-    <img align="center" alt="django" src=https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white>
+    <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+    <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+    <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 </div>
     
 <br>
@@ -28,4 +36,3 @@
     <img align="center" alt="python" src=https://img.shields.io/badge/Windows11-0078D6?style=for-the-badge&logo=windows&logoColor=white>
 
 </div>
-
