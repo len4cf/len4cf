@@ -19,7 +19,7 @@
 
 <br>
 
-## Languages and Tools
+## Languages Tools and Frameworks
 
 <div style="display: inline-block"><br/>
     <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -29,6 +29,8 @@
     <img align="left" alt="Word" style="padding-right:10px;" src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
     <img align="left" alt="Visual Studio" style="padding-right:10px;" src="https://img.shields.io/badge/Visual_Studio-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=whit" />
     <img align="left" alt="Pycharm" style="padding-right:10px;" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
+    <img align="left" alt="Javascript" style="padding-right:10px;" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img align="left" alt="React" style="padding-right:10px;" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 </div>
     
