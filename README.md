@@ -2,7 +2,6 @@
 # Hello!
 
 **`Software engineer student`**<br>
-**`My name is Helena, but you can call me Lena!`**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helenacarvalhoferreira/)
 [![MyAnimeList](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/animelist/len4cf)
