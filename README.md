@@ -15,9 +15,7 @@
 ## Personal Info
 
 <h3><b>Name:</b> Helena Carvalho Ferreira </h3>
-<h3><b>Age:</b> 18 </h3>
 <h3><b>Living in:</b> Curitiba - PR, Brazil </h3>
-<h3><b>University:</b> PUCPR - Pontifícia Universidade Católica do Paraná </h3>
 
 <br>
 
