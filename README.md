@@ -14,7 +14,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helenacarvalhoferreira/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:helenacarvalhoferreira05@gmail.com)
-[![Portfólio Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://lenathedev.vercel.app/)
+[![Portfólio Badge](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://lenathedev.vercel.app/)
 <p align="right"><img src="https://visitcount.itsvg.in/api?id=len4cf&label=Profile%20Views&color=0&icon=8&pretty=true" alt="len4cf"/></p>
 <hr>
 <div>
