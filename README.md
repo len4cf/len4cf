@@ -1,49 +1,39 @@
+<!--- Gerado em: 16 de maio de 2024 -->
 
-# Hello!
+<h2>Hi, I'm Helena <img width="32" src="./media/outros/handWaving.gif"/></h2> 
 
-**`Software engineer student`**<br>
+- 🎂 19 years old. <br>
+- 💚 Passionate about technology. <br>
+- 🏠 Living in Paraná, Brazil. <br>
+- 💬 Ask me about movies, music and tech <br>
+- 🎓 Graduating **Software Engineering**. <br>
+- 📚 Studying **React** and **TypeScript**.  <br>
+- ⚡ <strong>Languages</strong>: JavaScript, TypeScript, Python, Java <br>
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helenacarvalhoferreira/)
-[![MyAnimeList](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/animelist/len4cf)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/helena.carvalhoferreira)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/len4cf/)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12166701867?si=146d5dcd4b8444e6)
-[![Lastfm](https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/user/len4cf)
-
-![Len4cf's GitHub stats](https://github-readme-stats.vercel.app/api?username=len4cf&show_icons=true&theme=dracula)
-
-## Personal Info
-
-<h3><b>Name:</b> Helena Carvalho Ferreira </h3>
-<h3><b>Living in:</b> Curitiba - PR, Brazil </h3>
-
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:helenacarvalhoferreira05@gmail.com)
 <br>
-
-## Languages Tools and Frameworks
-
-<div style="display: inline-block"><br/>
-    <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-    <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-    <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-    <img align="left" alt="React" style="padding-right:10px;" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img align="left" alt="Javascript" style="padding-right:10px;" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
+[![Portfólio Badge](https://img.shields.io/badge/-Portfólio-black?style=flat-square&logo=devdotto&logoColor=white&link=https://lenathedev.vercel.app/)](https://www.luizfranzon.dev/)
+<p align="right"><img src="https://visitcount.itsvg.in/api?id=len4cf&label=Profile%20Views&color=0&icon=8&pretty=true" alt="len4cf"/></p>
+<hr>
+<div>
+    <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
+    <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
+    <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
+    <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'>
+    <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'>
+    <img src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'>
+    <img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white'>
+    <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
+    <img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white'>
+    <img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white'>
+    <img src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white'>
+    <img src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white'>
+    <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>
+    <img src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'>
+    <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'>
 </div>
-    
-<br>
-
-## Workspace specs
-<div style="display: inline-block"><br/>
-    <img align="center" alt="python" src=https://img.shields.io/badge/NVIDIA-RTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white>
-    <img align="center" alt="python" src=https://img.shields.io/badge/Intel-Core_i5_10th_2.90ghZ-0071C5?style=for-the-badge&logo=intel&logoColor=white>
-    <img align="center" alt="python" src=https://img.shields.io/badge/Windows11-0078D6?style=for-the-badge&logo=windows&logoColor=white>
-
-</div>
-
-
-
-
-
-
 
 
