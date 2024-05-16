@@ -8,7 +8,7 @@
 - 💬 Ask me about movies, music and tech <br>
 - 🎓 Graduating **Software Engineering**. <br>
 - 📚 Studying **React** and **TypeScript**.  <br>
-- ⚡ <strong>Languages</strong>: JavaScript, TypeScript, Python, Java <br>
+- ⚡ <strong>Languages</strong>: JavaScript, TypeScript<br>
 
 <br>
 
