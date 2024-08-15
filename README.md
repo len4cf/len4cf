@@ -5,10 +5,8 @@
 - 🎂 19 years old. <br>
 - 💚 Passionate about technology. <br>
 - 🏠 Living in Paraná, Brazil. <br>
-- 💬 Ask me about movies, music and tech <br>
-- 🎓 Graduating **Software Engineering**. <br>
-- 📚 Studying **React** and **TypeScript**.  <br>
-- ⚡ <strong>Languages</strong>: JavaScript, TypeScript<br>
+- 🎓 Graduating **Information Systems**. <br>
+- 📚 Studying **PHP** and **Laravel**.  <br>
 
 <br>
 
